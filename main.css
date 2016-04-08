@@ -1,0 +1,22 @@
+.FlexLayout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0px;
+}
+
+header {
+  display: flex;
+  background-color: yellow;
+}
+
+main {
+  display: flex;
+  background-color: green;
+  flex: 1;      /* 和兄弟元素相比，所占的比例  */
+}
+
+footer {
+  display: felx;
+  background-color: blue;
+}
