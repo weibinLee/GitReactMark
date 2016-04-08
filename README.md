@@ -7,7 +7,7 @@
 5、结合markdown格式的文档系统，参考rubydoc等思想，形成代码文档一体化系统。
 
 日记：
-2016年4月8号
+2016年4月8日 09：30
 1、编写README.md文件
 2、最初的git操作
     git init
@@ -15,3 +15,6 @@
     git commit -m "first commit"
     git remote add origin https://github.com/weibinLee/GitReactMark.git
     git push -u origin master
+
+2016年4月8日 10：36
+1、利用npm init命令，生成package.json文件

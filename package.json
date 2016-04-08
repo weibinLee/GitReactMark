@@ -1,0 +1,24 @@
+{
+  "name": "gitreactmark",
+  "version": "0.0.1",
+  "description": "将git,react,markdown等技术于一体，打造一个指数增量型软件系统",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weibinlee/GitReactMark.git"
+  },
+  "keywords": [
+    "git",
+    "react",
+    "markdown"
+  ],
+  "author": "weibinlee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weibinlee/GitReactMark/issues"
+  },
+  "homepage": "https://github.com/weibinlee/GitReactMark#readme"
+}
